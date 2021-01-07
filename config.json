@@ -1,33 +1,33 @@
 {
     "info": {
-        "name": "Brad Garropy",
-        "handle": "bradgarropy",
-        "company": "Adobe",
-        "title": "Senior Frontend Developer",
+        "name": "Eric Kelley",
+        "handle": "emkelley",
+        "company": "DENCAP Dental",
+        "title": "Software Engineer",
         "links": [
             {
                 "name": "Website",
-                "url": "https://bradgarropy.com"
+                "url": "https://emk.dev"
             },
             {
                 "name": "Twitch",
-                "url": "https://twitch.tv/bradgarropy"
+                "url": "https://twitch.tv/0NEGUY"
             },
             {
                 "name": "GitHub",
-                "url": "https://github.com/bradgarropy"
+                "url": "https://github.com/emkelley"
             },
             {
                 "name": "Twitter",
-                "url": "https://twitter.com/bradgarropy"
+                "url": "https://twitter.com/0NEGUYY"
             },
             {
                 "name": "YouTube",
-                "url": "https://youtube.com/bradgarropy"
+                "url": "https://www.youtube.com/channel/UCupzJ2LLeUcICkYNanrE9gw"
             },
             {
                 "name": "LinkedIn",
-                "url": "https://linkedin.com/in/bradgarropy"
+                "url": "https://www.linkedin.com/in/ericmkelley/"
             }
         ]
     },
